@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaka A J 🐰</h1>
 <h3 align="center">Interested in Web and App Development</h3>
-
+<br>
 
 - 🔭 I’m currently working on a project using **Flask** and **Python**.
 - 🌱 I’m currently learning **Flask**
