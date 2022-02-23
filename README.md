@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning **Flask**
 - 📫 How to reach me: **alaka03aj@gmail.com**
 - 😄 Pronouns: She/Her
+- 
 <br>
+
 <h2>Skills</h2>
 <ul>
   <li>C++</li>
@@ -15,6 +17,15 @@
   <li>CSS3</li>
   <li>MySQL</li>
 </ul>
+
+<br>
+
+<h2>Contact Me</h2>
+<ul>
+  <li><a href = "https://www.linkedin.com/in/alaka-aj/" target="_blank"></a><li>
+</ul>
+
+
 
 
 
