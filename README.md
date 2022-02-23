@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alaka A J</h1>
+<h1 align="center">Hi 👋, I'm Alaka A J 🐰</h1>
 <h3 align="center">Interested in Web and App Development</h3>
 
 <!--- 🌱 I’m currently learning **Flask**
