@@ -1,11 +1,9 @@
-### <align="center"> Hi 👋, there!
+<h1 align="center">Hi 👋, I'm Alaka A J</h1>
+<h3 align="center">Interested in Web and App Development</h3>
 
-<!--
-**alaka03aj/alaka03aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- 🌱 I’m currently learning **Flask**
 
-Here are some ideas to get you started:
-
--->
+- 📫 How to reach me **abc@gmail.com**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <b>Python</b>, <b>C++</b> <b>HTML5</b> and <b>CSS3</b>
@@ -18,3 +16,4 @@ Here are some ideas to get you started:
 
 
 <p> I'm Alaka A J from Kochi!<p>
+-->
