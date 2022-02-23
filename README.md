@@ -22,7 +22,7 @@
 
 <h2>Contact Me</h2>
 <ul>
-  <li><a href = "https://www.linkedin.com/in/alaka-aj/" target="_blank"></a><li>
+  <li><a href = "https://www.linkedin.com/in/alaka-aj/" target="_blank"></a></li>
 </ul>
 
 
