@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on a project using **Flask** and **Python**.
 - 🌱 I’m currently learning **Flask**
-- 👯 I’m looking to collaborate on front-end projects.
 - 📫 How to reach me: **alaka03aj@gmail.com**
 - 😄 Pronouns: She/Her
 
-<br>
 
 <h2>Skills</h2>
 <ul>
