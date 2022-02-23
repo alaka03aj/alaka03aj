@@ -23,6 +23,7 @@
 <h2>Contact Me</h2>
 <ul>
   <li><a href = "https://www.linkedin.com/in/alaka-aj/" target = "_blank">LinkedIn</a></li>
+  <li><a href = "https://www.hackerrank.com/alaka03aj" target = "_blank">HackerRank</a></li>
 </ul>
 
 
