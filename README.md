@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flask**
 - 📫 How to reach me: **alaka03aj@gmail.com**
 - 😄 Pronouns: She/Her
-- 
+
 <br>
 
 <h2>Skills</h2>
