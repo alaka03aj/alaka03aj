@@ -11,8 +11,7 @@
 
 <h2>Skills</h2>
 <ul>
-  <li>C++</li>
-  <li>C</li>
+  <li>C/C++</li>
   <li>Python</li>
   <li>HTML5</li>
   <li>CSS3</li>
