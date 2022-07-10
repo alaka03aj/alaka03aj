@@ -2,8 +2,8 @@
 <h3 align="center">Interested in Web and App Development</h3>
 <br>
 
-- 🔭 I’m currently working on a project using **Flask** and **Python**.
-- 🌱 I’m currently learning **Flask**
+- 🔭 I’m currently working on a project using **HTML5**, **CSS3** and **Javascript**.
+- 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me: **alaka03aj@gmail.com**
 - 😄 Pronouns: She/Her
 
