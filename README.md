@@ -2,8 +2,8 @@
 <h3 align="center">Interested in Web and App Development</h3>
 <br>
 
-- 🔭 I’m currently working on a project using **HTML5**, **CSS3** and **Javascript**.
-- 🌱 I’m currently learning **Javascript**
+- 🔭 I’m currently working on a project using **ReactJS**.
+- 🌱 I’m currently learning **ReactJS**
 - 📫 How to reach me: **alaka03aj@gmail.com**
 - 😄 Pronouns: She/Her
 
@@ -13,6 +13,8 @@
 <ul>
   <li>C/C++</li>
   <li>Python</li>
+  <li>Java</li>
+  <li>ReactJS</li>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>MySQL</li>
