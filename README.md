@@ -15,4 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alaka03aj&icon=0&color=1)](https://visitcount.itsvg.in) -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alaka-aj/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alaka-aj/)   
+![](https://komarev.com/ghpvc/?username=alaka03aj&color=7F00FF)
